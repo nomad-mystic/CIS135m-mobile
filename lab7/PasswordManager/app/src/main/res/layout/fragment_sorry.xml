@@ -1,0 +1,21 @@
+<LinearLayout
+    android:orientation="vertical"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nomad_mystic_passwordmanager.passwordmanager.SorryFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sorry" />
+    <TextView
+        android:text="@string/try_again"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

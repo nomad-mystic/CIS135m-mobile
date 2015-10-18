@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_showPlanet"
+        android:icon="@drawable/ic_eye"
+        android:title="@string/action_show_planet"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/action_custom"
+        android:icon="@drawable/ic_custom"
+        android:title="@string/action_custom"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/action_light"
+        android:icon="@drawable/ic_light"
+        android:title="@string/action_light"
+        app:showAsAction="ifRoom"
+    />
+    <item android:id="@+id/action_light_darkbar"
+        android:icon="@drawable/ic_light_darkbar"
+        android:title="@string/action_light_darkbar"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/action_dark"
+        android:icon="@drawable/ic_dark"
+        android:title="@string/action_dark"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

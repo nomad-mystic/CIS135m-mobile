@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">login</string>
+    <string name="enter_password">Please Enter Your Password</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="sorry">Sorry!</string>
+    <string name="try_again">please Try Again</string>
+    <string name="congratulations">Congratulations You are Logged In</string>
+    <string name="logged_in">You are Logged In</string>
+    <string name="add_account">Add Account</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="addAccount">Add Account</string>
+    <string name="account">Account</string>
+    <string name="delete_confirm_title">Delete Account Info</string>
+    <string name="ok">OK</string>
+    <string name="delete_confirm_message">Are you sure you want to delete all of the info this account?</string>
+</resources>

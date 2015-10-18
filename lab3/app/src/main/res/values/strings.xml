@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3</string>
+
+    <string name="header">Please Enter The volts and Resistance</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_output">OutputActivity</string>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_light">Light</string>
+    <string name="action_light_darkbar">Light Dark Bar</string>
+    <string name="action_dark">Dark</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="title_activity_light">Light</string>
+    <string name="title_activity_light_dark_bar">LightDarkBar</string>
+    <string name="title_activity_dark">Dark</string>
+    <string name="action_custom">Custom</string>
+    <string name="title_activity_custom">Custom</string>
+    <string name="action_show_planet">Show Planet</string>
+</resources>
